@@ -1,6 +1,7 @@
 ![alt text](images/energy_transition.jpg)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=salmanshahid8 alt=salmanshahid8/> </p>
+[![pages-build-deployment](https://github.com/salmanshahid8/salmanshahid8.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/salmanshahid8/salmanshahid8.github.io/actions/workflows/pages/pages-build-deployment)
 
 ## Hi there, I am Salman 👋
 
