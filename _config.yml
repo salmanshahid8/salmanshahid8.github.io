@@ -23,7 +23,7 @@ repository               : "salmanshahid8/salmanshahid8.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Muhammad Salman Shahid"
   pronouns         : # example: "she/her"  
   bio              : "Adjunct Professor | MLOps Engineer | PhD in Energy Flexibility"
