@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!-- 
 ## Hi there, I am Salman 👋
 
 I am a research engineer in a French lab 🔬. In parallel, I am also an adjunct professor in a French university 🎓. Previously, I completed my PhD in Energy Flexibility 🪫🎚️🔋. Currently, I am self-learning the advanced tools of MLØps 🤖👨‍💻🧠. 
@@ -61,7 +61,7 @@ I intend to master the following in the near future.
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Polars](https://img.shields.io/badge/polars-0075ff?style=for-the-badge&logo=polars&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) -->
 
 
 
