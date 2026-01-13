@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=salmanshahid8 alt=salmanshahid8/> </p>
-
 &nbsp;
 
 ## Hi there, I am Salman 👋
