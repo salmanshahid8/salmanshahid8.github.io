@@ -9,9 +9,9 @@ redirect_from:
 
 ## Hi there, I am Salman 👋
 
-I am a research engineer in a French lab 🔬. In parallel, I am also an adjunct professor in a French university 🎓. Previously, I completed my PhD in Energy Flexibility 🪫🎚️🔋. Currently, I am self-learning the advanced tools of MLØps 🤖👨‍💻🧠. 
+I am a research engineer in a French lab 🔬. In parallel, I am also an adjunct professor in a French university 🎓 and working as a council member in a working group of [Grenoble Alpes Metropole](https://c2d.grenoblealpesmetropole.fr/1409-qui-sommes-nous.htm) 👨‍⚖️🏛️. 
 
-I love to develop data science projects 📊📈👨🏻‍💻 in Python 🐍 and automate them using shell scripts 💲 on linux servers 🐧⭐️. Here are some of the stuff I enjoy doing:
+I completed my [PhD in Energy Flexibility 🪫🎚️🔋 from Université Grenoble Alpes](https://theses.hal.science/tel-03766410v1). I love to develop data science projects 📊📈👨🏻‍💻 in Python 🐍 and automate them using shell scripts 💲 on linux servers 🐧⭐️. Here are some of the stuff I enjoy doing:
 
 * Working with data 💾 and APIs 🔗🌐
 * Time series analysis and forecasting 📈📉
@@ -44,7 +44,7 @@ Here are some of the tools on which I gained expertise:
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 
-I intend to master the following in the near future.
+Currently, I am self-learning the advanced tools of MLØps 🤖👨‍💻🧠. Here a few tools that I intend to master in the near future.
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
@@ -82,11 +82,11 @@ For those users that need more advanced functionality, the template also support
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
