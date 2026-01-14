@@ -2,7 +2,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=salmanshahid8 alt=salmanshahid8/> </p>
 
-[![pages-build-deployment](https://github.com/salmanshahid8/salmanshahid8.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/salmanshahid8/salmanshahid8.github.io/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/salmanshahid8/salmanshahid.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/salmanshahid8/salmanshahid.github.io/actions/workflows/pages/pages-build-deployment)
 
 ## Hi there, I am Salman 👋
 
@@ -63,21 +63,3 @@ Currently, I am self-learning the advanced tools of MLØps 🤖👨‍💻🧠. 
 📫 You can reach me on : 
 
 <a href="https://www.linkedin.com/in/salmanshahid8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanshahid8" height="37" width="40" /></a>
-
-
-
-
-<!--
-**salmanshahid8/salmanshahid8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
