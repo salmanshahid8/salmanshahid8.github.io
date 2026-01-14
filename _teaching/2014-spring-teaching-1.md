@@ -1,4 +1,13 @@
 ---
+title: "Work in progress"
+collection: teaching
+permalink: /teaching/2014-spring-teaching-1
+---
+
+![Work in progress](../images/wip.jpg)
+
+
+<!-- ---
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
@@ -17,4 +26,4 @@ Heading 2
 ======
 
 Heading 3
-======
+====== -->
