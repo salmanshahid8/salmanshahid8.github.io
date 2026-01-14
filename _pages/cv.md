@@ -12,7 +12,7 @@ redirect_from:
 English CV
 ======
 
-If file does not load below, <a href="{{ site.baseurl }}/files/cven_shahid.pdf">try downloading (pdf).</a>
+If the file does not load below, <a href="{{ site.baseurl }}/files/cven_shahid.pdf">try downloading (pdf).</a>
 
 <embed src="{{ site.baseurl }}/files/cven_shahid.pdf" width="650" height="800" type='application/pdf'>
 
