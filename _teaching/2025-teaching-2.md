@@ -6,6 +6,7 @@ permalink: /teaching/undergraduate
 venue: "ENSE3, Grenoble-INP"
 date: 2025-09-01
 location: "Grenoble, France"
+published: false
 ---
 
 Smart Systems (Autumn Semester - 2023, 2024, 2025)
