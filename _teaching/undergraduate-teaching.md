@@ -1,9 +1,8 @@
 ---
 title: "Undergraduate Courses"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/undergraduate
-venue: "ENSE3, Grenoble-INP"
+venue: "ENSE3, Grenoble-INP, France"
 date: 2025-09-01
 location: "Grenoble, France"
 hidden_from_archive: true
