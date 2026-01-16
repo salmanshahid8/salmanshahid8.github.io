@@ -2,7 +2,7 @@
 title: "Machine Learning and Optimisation"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/2025-autumn-teaching-1
+permalink: /teaching/mlo
 venue: "ENSE3, Grenoble-INP"
 date: 2025-09-01
 location: "Grenoble, France"
