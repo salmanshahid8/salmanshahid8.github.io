@@ -8,8 +8,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% if post.title == "Smart Systems" %}
-    {% continue %}
-  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
