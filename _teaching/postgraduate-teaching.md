@@ -2,7 +2,7 @@
 title: "Postgraduate Courses"
 collection: teaching
 permalink: /teaching/postgraduate
-venue: "ENSE3, Grenoble-INP, France"
+venue: "[ENSE3, Grenoble-INP Univeristy](https://ense3.grenoble-inp.fr/), France"
 date: 2025-09-01
 location: "Grenoble, France"
 ---
