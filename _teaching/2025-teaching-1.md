@@ -6,7 +6,6 @@ permalink: /teaching/postgraduate
 venue: "ENSE3, Grenoble-INP"
 date: 2025-09-01
 location: "Grenoble, France"
-published: false
 ---
 
 Machine Learning and Optimisation (Autumn Semester - 2023, 2024, 2025)
