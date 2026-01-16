@@ -13,6 +13,7 @@ Machine Learning and Optimisation (Autumn Semester - 2023, 2024, 2025)
 
 The objective of this course is to provide a comprehensive understanding of **machine learning and optimisation** through practice, primarily in the field of smart energy systems, such as buildings. Following are the contents of this course, adapted mainly for time-series data.
 - Read the data from static files or using **REST APIs**
+- **Data Engineering** using the [Medallion architecture](https://www.databricks.com/glossary/medallion-architecture) on local PCs in **SQLite databases**
 - Data Manipulation and **Feature Engineering** of a dataset
 - Supervised Learning (**Regression** and **Classification**)
 - Unsupervised Learning (**Clustering**)
