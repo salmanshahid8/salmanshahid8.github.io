@@ -4,7 +4,6 @@ collection: teaching
 permalink: /teaching/undergraduate
 venue: "ENSE3, Grenoble-INP University, France"
 venue_url: "https://ense3.grenoble-inp.fr/"
-date: 2025-09-01
 location: "Grenoble, France"
 ---
 
