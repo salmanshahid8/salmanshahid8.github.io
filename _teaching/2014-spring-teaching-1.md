@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2025-autumn-teaching-1
 venue: "ENSE3, Grenoble-INP"
-date: 2023,2024,2025
+date: 2025-09-01
 location: "Grenoble, France"
 ---
 
@@ -26,31 +26,3 @@ At the end of the module, students are able to:
 - Understand the fundamental principles of machine learning algorithms
 - Work with real-world data sets (analyze, understand, predict, prescribe) using data science and artificial intelligence tools
 - Select and implement **machine learning (or optimisation)** method which is appropriate for the problem under consideration (e.g. time-series prediction, clustering of energy consumption profile, optimisation of battery energy for an energy self-consumption case).
-
-
-Heading 2
-======
-
-Heading 3
-======
-
-<!-- ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
