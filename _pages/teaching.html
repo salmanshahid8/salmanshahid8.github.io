@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% unless post.hidden_from_archive %}
-    {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
+<div class="teaching-links">
+  <ul>
+    <li><a href="{{ base_path }}/teaching/postgraduate">Postgraduate Courses</a></li>
+    <li><a href="{{ base_path }}/teaching/undergraduate">Undergraduate Courses</a></li>
+  </ul>
+</div>
