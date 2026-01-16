@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign teaching_posts = site.teaching | reverse %}
-{% for post in teaching_posts limit:2 %}
+{% for post in site.teaching reversed %}
+  {% if post.title == "Smart Systems" %}
+    {% continue %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
