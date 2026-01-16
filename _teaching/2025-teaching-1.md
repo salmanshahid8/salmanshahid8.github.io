@@ -8,6 +8,9 @@ date: 2025-09-01
 location: "Grenoble, France"
 ---
 
+
+======
+
 Machine Learning and Optimisation (Autumn Semester - 2023, 2024, 2025)
 ======
 
