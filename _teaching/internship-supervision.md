@@ -10,7 +10,7 @@ location: "Grenoble, France"
 Analysis of Energy Flexibility and Indoor Air Quality of The GreEn-ER Building
 ======
 
-|   |   |
+
 |---|---|
 |Nature of Supervision :| Industrial Supervison |
 | Intern : | [Jessica Odeibea ANSA-ASARE](https://www.linkedin.com/in/jessica-ansa-asare-jaoaa/) |
