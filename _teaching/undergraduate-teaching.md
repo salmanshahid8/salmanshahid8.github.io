@@ -23,7 +23,8 @@ At the end of the module, students are able to:
 - Select and implement **machine learning (or optimisation)** method which is appropriate for the energy related problem under consideration.
 
 
-English And Communication (Autumn Semester - 2023, 2024, 2025)
+English And Communication 
+(Autumn Semester - 2023, 2024, 2025)
 ======
 
 [Official Course Link](https://ense3.grenoble-inp.fr/fr/formation/smart-systems-5eu9ssy1)
