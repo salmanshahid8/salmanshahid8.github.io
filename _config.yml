@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Muhammad Salman Shahid"
 title_separator          : "-"
 name                     : &name "Muhammad Salman Shahid"
-description              : &description "Adjunct Professor | MLOps Engineer | PhD in Energy Flexibility"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Adjunct Professor | MLØps Engineer | PhD in Energy Flexibility"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://salmanshahid8.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Muhammad Salman Shahid"
   pronouns         : # example: "she/her"  
-  bio              : "Adjunct Professor | MLOps Engineer | PhD in Energy Flexibility"
+  bio              : "Adjunct Professor | MLØps Engineer | PhD in Energy Flexibility"
   location         : "Grenoble France"
   employer         : "Grenoble INP University"
-  uri              : # URL
+  uri              : https://salmanshahid8.github.io
   email            : "muhammad-salman.shahid@grenoble-inp.fr" 
 
   # Academic websites
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Muhammad-Salman-Shahid"
   scopus           : # URL
   zotero           : # URL
 
@@ -107,7 +107,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : dark # "light" (default), "dark"
+    # colorscheme          : dark # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
