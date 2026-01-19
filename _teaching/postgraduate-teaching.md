@@ -9,7 +9,7 @@ location: "Grenoble, France"
 
 
 Machine Learning and Optimisation (Autumn Semester - 2023, 2024, 2025)
-======
+=======
 
 [Official Course Link](https://ense3.grenoble-inp.fr/fr/formation/machine-learning-and-optimization-toutes-filieres-m2-sgb-parcours-numerique-weu9mlo5)
 
