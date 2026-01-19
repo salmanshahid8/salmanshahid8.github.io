@@ -16,7 +16,6 @@ Analysis of Energy Flexibility and Indoor Air Quality of The GreEn-ER Building
 | Intern : | [Jessica Odeibea ANSA-ASARE](https://www.linkedin.com/in/jessica-ansa-asare-jaoaa/) |
 | Level of Internship : | Postgraduate (Masters - Smart Grids and Buildings) |
 | Duration of Internship : | Spring Semester - 2025 |
-|   |   |
 
 This internship aims to analyse the impact of energy flexibility on indoor air quality, in response to modifications made to the default pressure set-points of **air handling units(AHUs)** in the GreEn-ER building in Grenoble, France. The building incorporates advanced HVAC systems, natural ventilation, and energy-recovery features, making it a suitable case study for energy flexibility research.
 
