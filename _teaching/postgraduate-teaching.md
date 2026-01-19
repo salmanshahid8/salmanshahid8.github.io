@@ -11,6 +11,7 @@ location: "Grenoble, France"
 Machine Learning and Optimisation (Autumn Semester - 2023, 2024, 2025)
 =======
 
+
 [Official Course Link](https://ense3.grenoble-inp.fr/fr/formation/machine-learning-and-optimization-toutes-filieres-m2-sgb-parcours-numerique-weu9mlo5)
 
 The objective of this course is to provide a comprehensive understanding of **machine learning and optimisation** through practice, primarily in the field of smart energy systems, such as buildings. Following are the contents of this course, adapted mainly for time-series data.
@@ -31,6 +32,7 @@ At the end of the course, students are able to:
 
 Object Oriented Programming in Python (Autumn Semester - 2023)
 ======
+
 
 [Official Course Link](https://ense3.grenoble-inp.fr/en/study-at-ense3/computer-sciences-4eus3mon)
 

@@ -10,6 +10,7 @@ location: "Grenoble, France"
 Smart Systems (Autumn Semester - 2023, 2024, 2025)
 ======
 
+
 [Official Course Link](https://ense3.grenoble-inp.fr/fr/formation/smart-systems-5eu9ssy1)
 
 The objective of this course is to provide a basic understanding of **machine learning** through practice, to the final year undergraduate students. Following are the contents of this course, adapted mainly for time-series data.
@@ -25,6 +26,7 @@ At the end of the module, students are able to:
 
 English And Communication (Autumn Semester - 2023, 2024, 2025)
 ======
+
 
 [Official Course Link](https://ense3.grenoble-inp.fr/fr/formation/smart-systems-5eu9ssy1)
 
