@@ -7,6 +7,41 @@ venue_url: "https://ense3.grenoble-inp.fr/"
 location: "Grenoble, France"
 ---
 
+Preparing a large scale experimentation for causality analysis of textual data from social media influence on electrical consumption
+======
+
+
+|---|---|
+|Nature of Supervision :| Industrial Co-supervison |
+| Intern : | [Kimsrang Iet](https://www.linkedin.com/in/kimsrang-iet-750373243/) |
+| Level of Internship : | Postgraduate (Masters - Smart Grids and Buildings) |
+| Duration of Internship : | Spring Semester - 2026 |
+
+Predicting electricity consumption represents a major methodological challenge. Integrating social media data could refine these estimates and increase their reliability. While previous work has established correlations between social media activity and electricity consumption, identifying causal effects between the prominence of specific topics on social media and energy use remains extremely difficult. This project aim to work on this challenge by analysing the causal impact of social media information.
+
+
+---
+
+
+BELL-Flex : Building Energy Living Lab (BELL-GreEn-ER) Energy Flexibility through forecasting
+======
+
+
+|---|---|
+|Nature of Supervision :| Industrial Co-supervison |
+| Intern : | [Phareth Muth](https://www.linkedin.com/in/muth-phareth-b374a9234/) |
+| Level of Internship : | Postgraduate (Masters - Energy Technology and Management) |
+| Duration of Internship : | Spring Semester - 2026 |
+
+Internship Tasks:
+- Study a real physical system (Building Energy Living Lab in GreEn-ER building)
+- Gather existing historical data from InfluxDB and real time data from Schneider PLC
+- Gather exogeneous information such as room occupation data
+- Model HVAC systems and indoor comfort to create a forecasting model
+- Participate to [FlexReady pilot project](https://www.thinksmartgrids.fr/flex-ready)
+
+---
+
 Analysis of Energy Flexibility and Indoor Air Quality of The GreEn-ER Building
 ======
 
@@ -24,6 +59,8 @@ The experiment conducted for this internship **(denoted neo-Flex)** builds on ke
 Energy performance on these selected days was analysed by studying the electrical consumption data of the building, while indoor air quality and occupant comfort were analysed by studying the $$CO_2$$ concentration data. Occupancy and window/door status were monitored manually to provide context.
 
 The results show that reducing CTA pressure set-points can lower electrical consumption without appreciably degrading indoor air quality when the reduction is limited to 25%. **At a 50% reduction of pressure setpoints of AHUs, some rooms experienced elevated $$CO_2$$ levels but generally remained within acceptable occupant comfort limits.** These findings confirm and extend the trends observed during CUBEFlex and illustrate the potential for controlled ventilation flexibility in tertiary buildings.
+
+---
 
 Contributions to the development of the Power Price Projection model for simulating electricity price trends in Europe
 ======
