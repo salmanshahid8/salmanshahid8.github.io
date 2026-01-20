@@ -55,6 +55,11 @@
     border-bottom: 1px solid var(--global-border-color);
   }
 
+  /* Justify text after h2 headings (like Abstract) */
+  h2 + p {
+    text-align: justify;
+  }
+
   p, li, dl {
     font-size: 1em;
   }
