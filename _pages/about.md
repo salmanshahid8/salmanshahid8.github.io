@@ -18,6 +18,8 @@ I completed my [PhD in Energy Flexibility 🪫🎚️🔋 from Université Greno
 * Working on NLP 📄 and AI Agents 🤖
 * Automating stuff 🛠️ in production 🏭📦
 
+Here are some of the tools on which I gained expertise:
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
