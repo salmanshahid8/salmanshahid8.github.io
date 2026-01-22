@@ -9,17 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-English CV
+Here you can know more about my professional experience and skills.
+
+LinkedIn Profile
 ======
 
-If the file does not load below, <a href="{{ site.baseurl }}/files/cven_shahid.pdf">try downloading (pdf).</a>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="salmanshahid8" data-version="v1"></div>
+
+
+Single Page CV
+======
+
+If the file does not display below, <a href="{{ site.baseurl }}/files/cven_shahid.pdf"> please download it.</a>
 
 <embed src="{{ site.baseurl }}/files/cven_shahid.pdf" width="650" height="800" type='application/pdf'>
-
-
-<!-- French CV
-======
-
-If file does not load below, <a href="{{ site.baseurl }}/files/cvfr_shahid.pdf">try downloading (pdf).</a>
-
-<embed src="{{ site.baseurl }}/files/cvfr_shahid" width="650" height="800" type='application/pdf'> -->
