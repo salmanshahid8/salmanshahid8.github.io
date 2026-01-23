@@ -6,7 +6,7 @@
 
 ## Hi there, I am Salman 👋
 
-I am a research engineer in a French engineering lab 🔬. In parallel, I am also an adjunct professor in a French university 🎓 and am working as a council member in a working group of [Grenoble Alpes Metropole](https://c2d.grenoblealpesmetropole.fr/1409-qui-sommes-nous.htm) 👨‍⚖️🏛️. 
+I am a research engineer in a French engineering lab 🔬. In parallel, I am also an adjunct professor in a French university 🎓 and am working as a council member in a working group of [Grenoble Alpes Metropole](https://c2d.grenoblealpesmetropole.fr/1409-qui-sommes-nous.htm) 👨‍⚖️🏛️.
 
 I completed my [PhD in Energy Flexibility 🪫🎚️🔋 from Université Grenoble Alpes](https://theses.hal.science/tel-03766410v1). I love to develop data science projects 📊📈👨🏻‍💻 in Python 🐍 and automate them using shell scripts 💲 on linux servers 🐧⭐️. Here are some of the stuff I enjoy doing:
 
@@ -53,7 +53,6 @@ Here are some of the tools on which I gained expertise:
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 
-
 Currently, I am self-learning the advanced tools of MLØps 🤖👨‍💻🧠. Here a few tools that I intend to master in the near future.
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -71,6 +70,6 @@ Currently, I am self-learning the advanced tools of MLØps 🤖👨‍💻🧠. 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-📫 You can reach me on : 
+📫 You can reach me on :
 
 <a href="https://www.linkedin.com/in/salmanshahid8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanshahid8" height="37" width="40" /></a>

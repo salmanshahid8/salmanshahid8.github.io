@@ -11,6 +11,7 @@ citation: 'Ansa-Asare, J. O., <b>Shahid, M. S.</b>, Twum-Duah, N. K., Delinchant
 
 Abstract
 =======
+
 La flexibilité d’énergie est un levier important pour la transition énergétique. Cette étude examine une stratégie de flexibilité d’énergie par la modulation à la baisse des consignes de pression des centrales de traitement d'air (CTA). Menée au sein du GreEn-ER (un bâtiment dédié à l'enseignement et à la recherche), l'expérience « neo-Flex1 » a évalué l'impact sur la consommation d'électricité et la qualité de l'air intérieur (QAI) en mettant en œuvre deux scénarios de contrôle, à savoir un scénario modéré avec une réduction de 25 % et un scénario agressif avec une réduction de 50 % des consigne de pression par défaut des CTA, pour des sessions de 4 heures, pendant les jours de la semaine.
 
 Ces interventions ont permis de réduire de 30 % la puissance de pic et d'économiser environ 35 % d'énergie au niveau du sous-système (c.a.d. à l’échelle des CTAs participants). Pendant l’expérimentation, les concentrations moyennes de CO₂ sont restées inférieures au seuil de 800 ppm fixé par la réglementation française. L'indice de congestion de l'air, appelé « ICONE », est resté à moins ou égal 2, indiquant qu'un espace n'était que très légèrement congestionné dans les deux scenarios. Globalement, ces résultats se traduit une économie d'électricité de 2-5 % dans les deux scénarios pour l'ensemble du bâtiment, sans nuire à la qualité de l'air intérieur ni aux normes de confort.

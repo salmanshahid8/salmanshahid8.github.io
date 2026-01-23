@@ -56,7 +56,6 @@ Here are some of the tools on which I gained expertise:
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 
-
 Currently, I am self-learning the advanced tools of MLØps 🤖👨‍💻🧠. Here a few tools that I intend to master in the near future.
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)

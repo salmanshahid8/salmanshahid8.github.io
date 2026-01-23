@@ -11,6 +11,7 @@ citation: 'Sinceux, M., Ferrari, J., Wurtz, F., Delinchant, B., <b>Shahid, M. S.
 
 Data Card
 =======
+
 The main objective of the EXPESIGNO project is to study the electricity consumption behavior of households when faced with load shedding and/or deferral signals. These households participated in an experimental public policy study implemented to manage evening consumption peaks (between 6 p.m. and 8 p.m. in winter) and/or solar energy production peaks (between 12 p.m. and 3 p.m. in summer).
 
 Two groups of households were formed, one serving as a “control” group and the other representing the ‘treatment’ group, i.e., receiving the “alerts” for load shedding or consumption. Electricity consumption was monitored via consumption readings from Linky meters with the consent of the households.
@@ -18,6 +19,7 @@ Two groups of households were formed, one serving as a “control” group and t
 If you find this dataset useful or have any questions, please feel free to post in the OTE forum thread.
 
 The dataset currently contains data from:
+
 - Presentation slides on the study for both groups: control group (CG) and treatment group (TG)
 - A forthcoming scientific article presenting the study and its main findings - The complete study design (in English)
 - A presentation of how an “engagement” session (TG) is conducted

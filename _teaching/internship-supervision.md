@@ -10,7 +10,6 @@ location: "Grenoble, France"
 Preparing a large scale experimentation for causality analysis of textual data from social media influence on electrical consumption
 ======
 
-
 |---|---|
 |Nature of Supervision :| Industrial Co-supervison |
 | Intern : | [Kimsrang Iet](https://www.linkedin.com/in/kimsrang-iet-750373243/) |
@@ -19,13 +18,10 @@ Preparing a large scale experimentation for causality analysis of textual data f
 
 Predicting electricity consumption represents a major methodological challenge. Integrating social media data could refine these estimates and increase their reliability. While previous work has established correlations between social media activity and electricity consumption, identifying causal effects between the prominence of specific topics on social media and energy use remains extremely difficult. This project aim to work on this challenge by analysing the causal impact of social media information.
 
-
 ---
-
 
 BELL-Flex : Building Energy Living Lab (BELL-GreEn-ER) Energy Flexibility through forecasting
 ======
-
 
 |---|---|
 |Nature of Supervision :| Industrial Co-supervison |
@@ -34,6 +30,7 @@ BELL-Flex : Building Energy Living Lab (BELL-GreEn-ER) Energy Flexibility throug
 | Duration of Internship : | Spring Semester - 2026 |
 
 Internship Tasks:
+
 - Study a real physical system (Building Energy Living Lab in GreEn-ER building)
 - Gather existing historical data from InfluxDB and real time data from Schneider PLC
 - Gather exogeneous information such as room occupation data
@@ -44,7 +41,6 @@ Internship Tasks:
 
 Analysis of Energy Flexibility and Indoor Air Quality of The GreEn-ER Building
 ======
-
 
 |---|---|
 |Nature of Supervision :| Industrial Supervison |
@@ -65,13 +61,12 @@ The results show that reducing CTA pressure set-points can lower electrical cons
 Contributions to the development of the Power Price Projection model for simulating electricity price trends in Europe
 ======
 
-
 |---|---|
 |Nature of Supervision :| Academic Supervison |
 | Intern : | [Jihane BACHIRI](https://www.linkedin.com/in/jihanebachiri/) |
 | Level of Internship : | Postgraduate (Masters - Electrical Power engineering) |
 | Duration of Internship : | Spring Semester - 2025 |
 
-This internship was part of the development of the `Power Price Projection (PPP) tool`, which aims to create scenarios for electricity **price trends in Europe until 2050** with hourly resolution. The main task was to build a model for forecasting hourly electricity demand, based on a bottom-up approach by usage and scenario. These demand profiles are used as inputs for the overall price simulation model. 
+This internship was part of the development of the `Power Price Projection (PPP) tool`, which aims to create scenarios for electricity **price trends in Europe until 2050** with hourly resolution. The main task was to build a model for forecasting hourly electricity demand, based on a bottom-up approach by usage and scenario. These demand profiles are used as inputs for the overall price simulation model.
 
 In addition, the intern worked on several other developments such as: the integration of climate data, the collection and processing of data for Great Britain, the analysis of the Spanish market, and ``big data`` methods to optimize the management of large files. These various tasks helped to strengthen the robustness of the model and prepare for its deployment in new European countries.

@@ -11,6 +11,7 @@ citation: 'Osonuga, S., <b>Shahid, M. S.</b>, Chouman, A., Wurtz, F., & Delincha
 
 Data Card
 =======
+
 This dataset contains the thermal energy datasets for the PREDIS-MHI platform of the GreEn-ER building, a tertiary building with more than a thousand sensors used for research, teaching, and administrative activities in Grenoble.
 
 If you find this dataset useful or have any questions, please feel free to comment on the discussion dedicated to this dataset on the OTE forum.
