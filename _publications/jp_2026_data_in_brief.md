@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/jp_2026_data_in_brief
 date: 2026-01-10
 venue: 'Data in Brief'
-#paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.dib.2026.112486'
 citation: 'Aghaei, M., Campodonico-Avendano, I. A., Erba, S., Papadopoulos, P., Carlucci, S., Luparelli, A., Ingrosso, A., Tresoldi, G., <b>Shahid, M. S.</b>, Wurtz, F., Delinchant, B., Leinan, P. M., Cera, S., Riederer, P., Solli, R., & Moazami, A. (2026). COLLECTiEF dataset: A high-resolution indoor environmental dataset from European buildings across diverse climates supporting thermal, air-quality, and visual-comfort assessments'
 ---
 
