@@ -2,7 +2,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=salmanshahid8 alt=salmanshahid8/> </p>
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
 [![pages-build-deployment](https://github.com/salmanshahid8/salmanshahid8.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/salmanshahid8/salmanshahid8.github.io/actions/workflows/pages/pages-build-deployment)
 
 ## Hi there, I am Salman 👋
