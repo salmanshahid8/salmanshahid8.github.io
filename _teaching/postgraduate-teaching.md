@@ -31,6 +31,23 @@ At the end of the course, students are able to:
 - Work with real-world data sets (analyze, understand, predict, prescribe) using data science and artificial intelligence tools
 - Select and implement **machine learning (or optimisation)** method which is appropriate for the problem under consideration (e.g. time-series prediction, clustering of energy consumption profile, optimisation of battery energy for an energy self-consumption case).
 
+Smart Systems (Autumn Semester - 2023, 2024, 2025)
+======
+
+[Official Course Link](https://ense3.grenoble-inp.fr/fr/formation/smart-systems-5eu9ssy1)
+
+The objective of the module **Machine Learning** in this course is to provide a basic understanding of **machine learning** through practice. Following are the contents of this course, adapted mainly for time-series data.
+
+- Data Manipulation and **Feature Engineering** of a dataset
+- Supervised Learning (**Regression** and **Classification**)
+- Unsupervised Learning (**Clustering**)
+- Deep Learning (**CNN** and **LSTM** for time-series regression)
+
+At the end of the module, students are able to:
+
+- Understand the fundamental principles of machine learning algorithms
+- Select and implement **machine learning** method which is appropriate for the energy related problem under consideration.
+
 Object Oriented Programming in Python (Autumn Semester - 2023)
 ======
 
