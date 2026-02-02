@@ -75,4 +75,4 @@ Currently, I am self-learning the advanced tools of MLØps 🤖👨‍💻🧠. 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-Besides, I love to listen geo-political podcasts 🎧🌍 and watch travel vlogs 🏍▶️. Summer is what I like the most for season, since I love to do BBQ 🍖♨️🔥🥩🥓🍳. Also, I am a huge fan of Linkin Park (Chester Benington era) ᯓ★🎸.
+Besides, I love to listen geo-political podcasts 🎧🌍 and watch travel vlogs 🏍▶️. Summer is what I like the most for season, since I love to do BBQ 🍖♨️🔥🥩🥓🍳. Also, I am a huge fan of Linkin Park (Chester Benington era) ᯓ★🎸, and of-course, NFAK when you find nothing to listen.
