@@ -20,7 +20,9 @@ I completed my [PhD in Energy Flexibility 🪫🎚️🔋 from Université Greno
 
 Here are some of the tools on which I gained expertise:
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![mint](https://img.shields.io/badge/Linux%20Mint-87CF87?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -35,6 +37,8 @@ Here are some of the tools on which I gained expertise:
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
+![Sphinx](https://img.shields.io/badge/sphinx-%23FFFFFF.svg?style=for-the-badge&logo=sphinx&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white)
@@ -49,6 +53,7 @@ Here are some of the tools on which I gained expertise:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
 ![Spacy](https://img.shields.io/badge/spacy-%23000000.svg?style=for-the-badge&logo=spacy&logoColor=white)
 ![Transformers](https://img.shields.io/badge/transformers-%23FF6016.svg?style=for-the-badge&logo=transformers&logoColor=white)
@@ -57,6 +62,7 @@ Here are some of the tools on which I gained expertise:
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 
 ![Databricks](https://img.shields.io/badge/Databricks-%23FF6F00.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23FF0000.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 Currently, I am self-learning the advanced tools of MLØps 🤖👨‍💻🧠. Here a few tools that I intend to master in the near future.
 
@@ -70,9 +76,7 @@ Currently, I am self-learning the advanced tools of MLØps 🤖👨‍💻🧠. 
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 Besides, I love to listen geo-political podcasts 🎧🌍 and watch travel vlogs 🏍▶️. Summer is what I like the most for season, since I love to do BBQ 🍖♨️🔥🥩🥓🍳. Also, I am a huge fan of Linkin Park (Chester Benington era) ᯓ★🎸, and of-course, NFAK when you find nothing to listen.
