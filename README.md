@@ -48,6 +48,10 @@ Here are the stacks on which I gained expertise:
 ![Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![Sphinx](https://img.shields.io/badge/sphinx-%23FFFFFF.svg?style=for-the-badge&logo=sphinx&logoColor=black)
+![pre-commit](https://img.shields.io/badge/pre--commit-%23FAB040.svg?style=for-the-badge&logo=pre-commit&logoColor=black)
+![Makefile](https://img.shields.io/badge/Makefile-%23000000.svg?style=for-the-badge&logo=gnu&logoColor=white)
+![pyproject.toml](https://img.shields.io/badge/pyproject.toml-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Changelog](https://img.shields.io/badge/Changelog-lightgrey?style=for-the-badge&logo=keep-a-changelog&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white)
@@ -67,14 +71,13 @@ Here are the stacks on which I gained expertise:
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) -->
 
 ### 🧠 Machine Learning
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
 ![Spacy](https://img.shields.io/badge/spacy-%23000000.svg?style=for-the-badge&logo=spacy&logoColor=white)
 
-### ⚙️ DevOps & MLOps Orchestration
+### ⚙️ DevOps / MLOps / AIOps Orchestration
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
