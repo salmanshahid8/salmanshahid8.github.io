@@ -12,7 +12,7 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "Muhammad Salman Shahid"
 title_separator          : "-"
 name                     : &name "Muhammad Salman Shahid"
-description              : &description "Adjunct Professor | MLØps Engineer | PhD in Energy Flexibility"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Research Engineer at G2ELab | PhD in Energy Flexibility | AIØps-MLØps Engineer"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://salmanshahid8.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Muhammad Salman Shahid"
   pronouns         : # example: "she/her"  
-  bio              : "Adjunct Professor | MLØps Engineer | PhD in Energy Flexibility"
+  bio              : "Research Engineer at G2ELab | PhD in Energy Flexibility | AIØps-MLØps Engineer"
   location         : "Grenoble France"
   employer         : "Grenoble INP University"
   uri              : https://salmanshahid8.github.io
