@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/cp_2026_ibpsa
 date: 2026-01-19
 venue: 'IBPSA France 2026, Lyon, France'
-#paperurl: ''
+paperurl: 'https://ibpsa.fr/joomla/jdownloads/Conferences_et_Congres/IBPSA_France/2026_conferenceIBPSA/proceedings_ibpsa_2026.pdf'
 citation: 'Ansa-Asare, J. O., <b>Shahid, M. S.</b>, Twum-Duah, N. K., Delinchant, B., & Wurtz, F. (May, 2026). Atteindre la flexibilite energie sans compromettre le confort : Une etude sur la modulation des consignes des centrales de traitement air dans un batiment tertiaire. <i>IBPSA France 2026</i>'
 ---
 
