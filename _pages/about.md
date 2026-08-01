@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-![aiops_mlops](images/aiops_mlops.jpg)
+<!-- ![aiops_mlops](images/aiops_mlops.jpg) -->
 
 # Hi there, I am Salman 👋
 
-I am a research engineer in a French lab 🔬. In parallel, I am also an adjunct professor in a French university 🎓. I am also a [council member](https://c2d.grenoblealpesmetropole.fr/membre/223/987-shahid-muhammad-salman.htm) in a working group of [Grenoble Alpes Metropole](https://c2d.grenoblealpesmetropole.fr/1409-qui-sommes-nous.htm) 👨‍⚖️🏛️.
+I am a research engineer in a French engineering lab. In parallel, I am also an adjunct professor in a French university and am working as a council member in a working group of [Grenoble Alpes Metropole](https://c2d.grenoblealpesmetropole.fr/1409-qui-sommes-nous.htm).
 
-I completed my [PhD in Energy Flexibility 🪫🎚️🔋 from Université Grenoble Alpes](https://theses.hal.science/tel-03766410v1). I love to develop data science projects 📊📈👨🏻‍💻 in Python 🐍 and automate them using shell scripts 💲 on linux servers 🐧⭐️. Here are some of the stuff I enjoy doing:
+I completed my [PhD in Energy Flexibility from Université Grenoble Alpes](https://theses.hal.science/tel-03766410v1). I love to develop data science projects in Python and automate them using shell scripts on linux servers. Here are some of the stuff I enjoy doing:
 
 * Working with data 💾 and APIs 🔗🌐
 * Time series analysis and forecasting 📈📉
@@ -62,13 +62,13 @@ Here are the stacks on which I gained expertise:
 ### 📊 Data Analysis & Big Data
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/polars-0075ff?style=for-the-badge&logo=polars&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-%23FF6F00.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
 <!-- ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white) -->
-<!-- ![Polars](https://img.shields.io/badge/polars-0075ff?style=for-the-badge&logo=polars&logoColor=white)
-![Duckdb](https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black) -->
+<!-- ![Duckdb](https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black) -->
 <!-- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) -->
 
@@ -79,7 +79,7 @@ Here are the stacks on which I gained expertise:
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
 ![Spacy](https://img.shields.io/badge/spacy-%23000000.svg?style=for-the-badge&logo=spacy&logoColor=white)
 
-### ⚙️ DevOps / MLOps / AIOps Orchestration
+### ⚙️ MLOps / AIOps Orchestration
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -94,14 +94,14 @@ Here are the stacks on which I gained expertise:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 
 ### 🤖 AIOps, GenAI & Agentic Workflows
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&style=for-the-badge&logoColor=white)
+![Claude-Code](https://img.shields.io/badge/Claude_Code-555?logo=claude&style=for-the-badge&logoColor=orange)
 ![Transformers](https://img.shields.io/badge/transformers-%23FF6016.svg?style=for-the-badge&logo=transformers&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23000000.svg?style=for-the-badge&logo=llamaindex&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM%20Studio-5F22E1?style=for-the-badge&logo=googledata-studio&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23FF0000.svg?style=for-the-badge&logo=n8n&logoColor=white)
 <!-- ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white) -->
-
-Besides, I love to listen geo-political podcasts 🎧🌍 and watch travel vlogs 🏍▶️. Summer is what I like the most for season, since I love to do BBQ 🍖♨️🔥🥩🥓🍳. Also, I am a huge fan of Linkin Park (Chester Benington era) ᯓ★🎸, and of-course, NFAK when you find nothing to listen.
