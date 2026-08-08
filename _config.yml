@@ -263,8 +263,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      # share: true
-      # comments: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -272,8 +272,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      # share: true
-      # comments: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -281,16 +281,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      # share: true
-      # comment: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      # author_profile: true
-      # share: true
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS

@@ -1,15 +1,15 @@
-<!-- ![alt text](images/energy_transition.jpg) -->
+![alt text](images/energy_transition.jpg)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=salmanshahid8 alt=salmanshahid8/> </p>
 
 [![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
 [![pages-build-deployment](https://github.com/salmanshahid8/salmanshahid8.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/salmanshahid8/salmanshahid8.github.io/actions/workflows/pages/pages-build-deployment)
 
-<!-- ![aiops_mlops](images/aiops_mlops.jpg) -->
+![aiops_mlops](images/aiops_mlops.jpg)
 
 # Hi there, I am Salman 👋
 
-I am a research engineer in a French engineering lab . In parallel, I am also an adjunct professor in a French university 🎓 and am working as a council member in a working group of [Grenoble Alpes Metropole](https://c2d.grenoblealpesmetropole.fr/1409-qui-sommes-nous.htm) 👨‍⚖️🏛️.
+I am a research engineer in a French engineering lab 🔬. In parallel, I am also an adjunct professor in a French university 🎓 and am working as a council member in a working group of [Grenoble Alpes Metropole](https://c2d.grenoblealpesmetropole.fr/1409-qui-sommes-nous.htm) 👨‍⚖️🏛️.
 
 I completed my [PhD in Energy Flexibility 🪫🎚️🔋 from Université Grenoble Alpes](https://theses.hal.science/tel-03766410v1). I love to develop data science projects 📊📈👨🏻‍💻 in Python 🐍 and automate them using shell scripts 💲 on linux servers 🐧⭐️. Here are some of the stuff I enjoy doing:
 
