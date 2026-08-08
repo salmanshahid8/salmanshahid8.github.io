@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="teaching-links">
+  <ul>
+    <li><a href="{{ base_path }}/teaching/postgraduate">Postgraduate Courses</a></li>
+    <li><a href="{{ base_path }}/teaching/undergraduate">Undergraduate Courses</a></li>
+    <li><a href="{{ base_path }}/teaching/internship-supervision">Internship Supervisions</a></li>
+  </ul>
+</div>
