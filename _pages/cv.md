@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae (CV)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,31 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Here you can know more about my professional experience and skills.
-
-LinkedIn Profile
+Education
 ======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="salmanshahid8" data-version="v1"></div>
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
-Single Page CV
-====== 
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
-If the files do not display below, you can download them by clicking below:
-- <a href="{{ site.baseurl }}/files/cven_shahid.pdf">English CV (PDF)</a>
-- <a href="{{ site.baseurl }}/files/cvfr_shahid.pdf">French CV (PDF)</a> -->
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-<div class="cv-embeds">
-  <div class="cv-embed english-cv">
-    <h2><a href="{{ site.baseurl }}/files/cven_shahid.pdf">English CV</a></h2>
-    <embed src="{{ site.baseurl }}/files/cven_shahid.pdf" width="80%" height="1150" type="application/pdf">
-  </div>
-
-  <hr style="margin:2rem 0;">
-
-  <div class="cv-embed french-cv">
-    <h2><a href="{{ site.baseurl }}/files/cvfr_shahid.pdf">French CV</a></h2>
-    <embed src="{{ site.baseurl }}/files/cvfr_shahid.pdf" width="80%" height="1150" type="application/pdf">
-  </div>
-</div>
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
