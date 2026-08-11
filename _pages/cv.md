@@ -24,6 +24,8 @@ If the files do not display below, you can download them by clicking below:
 - <a href="{{ site.baseurl }}/files/cven_shahid.pdf">English CV (PDF)</a>
 - <a href="{{ site.baseurl }}/files/cvfr_shahid.pdf">French CV (PDF)</a> -->
 
+The English version of CV is not updated. Please consult the French version below.
+
 <div class="cv-embeds">
   <div class="cv-embed english-cv">
     <h2><a href="{{ site.baseurl }}/files/cven_shahid.pdf">English CV</a></h2>
