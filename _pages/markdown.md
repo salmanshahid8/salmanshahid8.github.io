@@ -22,7 +22,7 @@ redirect_from:
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): images/profile.jpg
 
 ## Tips and hints
 
@@ -363,7 +363,7 @@ You will learn later on in these tests that `word-wrap: break-word;` will be you
 You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
 
 ```python
-print('Hello World!')
+print("Hello World!")
 ```
 
 or R:
